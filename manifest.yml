@@ -1,6 +1,6 @@
 ---
 applications:
-- name: cf-ex-php-info
+- name: mns-cf-ex-php-info01
   memory: 128M
   instances: 1
   path: .
